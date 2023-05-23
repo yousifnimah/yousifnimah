@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousifnimah&label=Profile%20views&color=0e75b6&style=flat" alt="yousifnimah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousifnimah" alt="yousifnimah" /></a> </p>
-
 - 🔭 I am working as a Lead Software Developer at [Masiya Group](https://www.masiya.net/)
 
 - 👨‍💻 All of my projects are available at [https://yousif.app](https://yousif.app)
