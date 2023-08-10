@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousifnimah&label=Profile%20views&color=0e75b6&style=flat" alt="yousifnimah" /> </p>
 <p align="center"> <img width="150px" src="https://yousif.app/logo.png" alt="yousifnimah" /> </p>
 <h1 align="center">Hi 👋, I'm Yousif</h1>
-<h3 align="center">A passionate software developer from Iraq</h3> 
+<h3 align="center">A passionate software developer from Iraq</h3>
 
 - 🔭 I am working as a Lead Software Developer at [Masiya Group](https://www.masiya.net/)
 
