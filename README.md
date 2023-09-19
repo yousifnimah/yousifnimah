@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://yousif.app](https://yousif.app)
 
-- 💬 Ask me about **Go lang, Vuejs, PHP**
-
 - 📫 How to reach me **me@yousif.app**
 
 - 📄 Know about my experiences [https://yousif.app/resume](https://yousif.app/resume)
