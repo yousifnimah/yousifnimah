@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousif</h1> 
 
- Visit my website at [https://yousif.app](https://yousif.app)
+Visit my website at <a href="https://yousif.app" target="_blank">https://yousif.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
