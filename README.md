@@ -2,10 +2,11 @@
 
 # Hi there 👋
 
-I'm Yousif, a Software Developer focusing on Golang. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+👨‍💻 Lead Software Developer </br>
+🔨 Crafting Tech Solutions </br>
+Turning Coffee into Code ☕ ➡️ 🚀 </br> 
+Explore my work at: <a href="https://yousif.app" target="_blank">https://yousif.app</a> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
-
-Visit my website at <a href="https://yousif.app" target="_blank">https://yousif.app</a>
 
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
